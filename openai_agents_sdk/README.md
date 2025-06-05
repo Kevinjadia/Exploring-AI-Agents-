@@ -23,7 +23,7 @@ This repository contains practice scripts exploring the OpenAI Agents SDK. It de
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/openai-agents-sdk-exploration.git
+git clone https://github.com/Kevinjadia/Exploring-AI-Agents-/openai-agents-sdk.git
 cd openai-agents-sdk-exploration
 ```
 ### 2. Create and activate a virtual environment
