@@ -1,0 +1,1 @@
+This repository contains practice scripts exploring the OpenAI Agents SDK. It demonstrates core features such as agent setup, function tools, web search integration, structured outputs, and external API usage like OpenWeatherMap.
